@@ -1,5 +1,7 @@
 ## Movie poster scraper
-Here is code for scraping [IMP Awards](http://www.impawards.com/). //www.impawards.com/).
+Here is code for scraping [IMP Awards](http://www.impawards.com/).
+
+If you only want the finished extracted triples, after we have added semantics to the data, just go ahead and use posters.ttl.
 
 This is how you run the program
 
